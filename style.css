@@ -1,0 +1,49 @@
+
+body {
+    background-color: #f8e9e6;
+    font-family: Georgia, serif;
+    text-align: center;
+    padding: 100px 20px;
+    color: #443333;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    background-color: #d99b9b;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    margin: 10px;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: #b97878;
+}
+
+#result {
+    margin-top: 50px;
+    color: #a45e5e;
+}
+
+#foodImage {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 20px auto;
+}
